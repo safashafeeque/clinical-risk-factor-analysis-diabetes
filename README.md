@@ -1,14 +1,14 @@
-# Risk Patterns in Diabetes Data
+# Risk Patterns in Diabetes Data:
 
 This mini project compares average clinical values between diabetic and non-diabetic individuals.
 
-## Objective
+## Objective:
 To identify which variables show the strongest differences between the two groups.
 
-## Key Finding
+## Key Findings:
 Glucose shows the strongest difference between diabetic and non-diabetic groups, with significantly higher average values in individuals with diabetes. BMI is also higher in the diabetic group, suggesting a moderate association, while other variables such as age show smaller differences.
 
-## Tools Used
+## Tools Used:
 - Python
 - Pandas
 - Matplotlib
