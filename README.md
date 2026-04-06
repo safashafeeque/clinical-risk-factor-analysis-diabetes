@@ -1,4 +1,4 @@
-# Risk Patterns in Diabetes Data:
+# Risk Patterns in Diabetes Data
 
 This mini project compares average clinical values between diabetic and non-diabetic individuals.
 
