@@ -1,6 +1,6 @@
 # Exploratory Analysis of Clinical Risk Factors in Diabetes Using Python
 
-## Overview
+## Project Overview
 
 This project explores a clinical diabetes dataset using Python to identify which variables show the strongest association with diabetes outcome. The analysis includes data cleaning, grouped comparison, correlation analysis, and visualisation of key clinical variables.
 
