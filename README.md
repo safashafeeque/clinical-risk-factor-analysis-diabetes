@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores a clinical diabetes dataset using Python to identify which variables show the strongest association with diabetes outcome. The analysis includes data cleaning, grouped comparison, correlation analysis, and visualisation of key clinical variables.
+This project uses a clinical diabetes dataset and analyses it using Python to identify which variables show the strongest association with diabetes outcome. The analysis includes data cleaning, grouped comparison, correlation analysis, and visualisation of key clinical variables.
 
 ## Research Question
 
@@ -18,7 +18,7 @@ This project uses the Pima Indians Diabetes dataset, which contains clinical var
 - Replaced invalid zero values in selected clinical variables with missing values
 - Imputed missing values using the median
 - Compared average clinical variables across diabetes outcome groups
-- Generated a correlation matrix to examine variable relationships
+- Generated a correlation matrix to examine relationship between variables
 - Visualised glucose, BMI, and age distributions using boxplots
 - Explored the relationship between BMI and glucose using a scatterplot
 
@@ -46,5 +46,5 @@ This project uses the Pima Indians Diabetes dataset, which contains clinical var
 
 ## Conclusion
 
-This project helped me understand how data cleaning, grouped comparison, correlation analysis, and visualisation can be used to interpret real-world clinical data.
+This project helped me understand how data cleaning, grouped comparison, correlation analysis, and visualisation can be applied to interpret real-world clinical data.
 
