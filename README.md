@@ -1,4 +1,4 @@
-# Exploratory Analysis of Clinical Risk Factors in Diabetes Using Python
+# An Exploratory Analysis of Clinical Risk Factors in Diabetes Using Python
 
 ## Project Overview
 
@@ -10,12 +10,12 @@ Which clinical variables show the strongest association with diabetes outcome in
 
 ## Dataset
 
-This project uses the Pima Indians Diabetes dataset, which contains clinical variables such as glucose, blood pressure, skin thickness, insulin, BMI, age, and diabetes outcome.
+This project uses the Pima Indians Diabetes dataset from Kaggle, which contains clinical variables such as glucose, blood pressure, skin thickness, insulin, BMI, age, and diabetes outcome.
 
 ## Methods
 
 - Loaded and inspected the dataset using pandas
-- Replaced invalid zero values in selected clinical variables with missing values
+- Replaced invalid zero values in the dataset with missing values
 - Imputed missing values using the median
 - Compared average clinical variables across diabetes outcome groups
 - Generated a correlation matrix to examine relationship between variables
@@ -26,7 +26,7 @@ This project uses the Pima Indians Diabetes dataset, which contains clinical var
 
 - Glucose showed the strongest association with diabetes outcome in this dataset
 - BMI showed a moderate association with diabetes outcome
-- Age showed a weaker but still relevant association
+- Age showed a weaker but still significant association
 - BMI overlapped considerably across groups and did not clearly separate diabetic and non-diabetic individuals on its own
 - Data cleaning was necessary because several variables contained implausible zero values
 
