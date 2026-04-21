@@ -33,16 +33,24 @@ This project uses the Pima Indians Diabetes dataset from Kaggle, which contains 
 ## Tools Used
 
 - Python
-- pandas
+- Pandas
 - NumPy
-- matplotlib
-- seaborn
+- Matplotlib
+- Seaborn
 - Google Colab
 
 ## Files
 
 - `clinical_risk_factor_analysis_diabetes.ipynb` — main notebook containing the full analysis
 - `diabetes.csv` — dataset used in the project
+
+## Concepts Revised
+
+- **Median imputation**: A method used to fill missing values with the median value.
+- **Correlation**: A statistical measure that shows the strength and direction of the relationship between two variables with the correlation coeffiecient, r (-1 - negative relationship, 0 - no relationship, +1 - positive relationship). A correlation matrix helps visualise these relationships across the dataset.
+- **Heatmap**: A visual way of displaying the correlation matrix, where colour helps show the strength and direction of relationships between variables.
+- **Boxplot**: A graph used to compare the distribution of values across groups using quartiles, the minimum, and the maximum value. It helps show the median, spread, and possible outliers.
+- **Scatterplot**: A graph used to examine the relationship between two numerical variables. In this project, it helped visualise the relationship between BMI and glucose.
 
 ## Conclusion
 
